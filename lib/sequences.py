@@ -6,6 +6,7 @@ def print_fibonacci(length):
         print([])
         return
     
+    
     fib_sequence = [0]
     if length > 1:
         fib_sequence.append(1)
